@@ -34,6 +34,7 @@ $filesToIgnore = [
 	'index.css',
 	'index.html',
 	'Restricted',
+	'PUT YOUR FILES HERE.txt'
 ];
 ?>
 
