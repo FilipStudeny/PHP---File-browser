@@ -13,7 +13,7 @@ Simple file browser created using PHP 8
 
 
 !!! WARNING !!!
-DUE CODE CHANGES DO NOT USE ON PHP OLDER THAN PHP 8
+DUE TO CODE INCOMPATABILITY DO NOT USE ON PHP OLDER THAN PHP 8 (Unless you modify the files)
 
 ![browser1](https://user-images.githubusercontent.com/81091191/145600990-822b05ea-e6e8-453f-a055-cf941007ea17.PNG)
 ![browser2](https://user-images.githubusercontent.com/81091191/145600998-6e6a30cf-5490-44a7-af15-72d6a6c20161.PNG)
