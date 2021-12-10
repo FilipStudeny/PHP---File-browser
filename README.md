@@ -2,15 +2,15 @@
 Simple file browser created using PHP 8
 
 
-------HOW TO USE ?------
+------ HOW TO USE ? ------
 1. Download this repository
 2. Place these files into the htdocs if you are using Apache server
 3. Place your files into -> src directory
 4. (optional) Before use, Please delete the .txt file in the src directory
 
 
-------USAGE------
-Click on file name to start download, if file is in PDF format the file will open in new window
+------ USAGE ------
+1. Click on file name to start download, if file is in PDF format the file will open in new window
 
 
 !!! WARNING !!!
