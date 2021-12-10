@@ -8,7 +8,6 @@ Simple file browser created using PHP 8
 3. Place your files into -> src directory
 4. (optional) Before use, Please delete the .txt file in the src directory
 
-
 ------ USAGE ------
 1. Click on file name to start download, if file is in PDF format the file will open in new window
 
