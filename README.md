@@ -4,8 +4,16 @@ Simple file browser created using PHP 8
 
 ------HOW TO USE ?------
 1. Download this repository
-2. Place these files into the htdocsif you are using Apache
-3. Place your files into -> src
+2. Place these files into the htdocs if you are using Apache server
+3. Place your files into -> src directory
+3.1 (optional) Before use, Please delete the .txt file in the src directory
+
+------USAGE------
+Click on file name to start download, if file is in PDF format the file will open in new window
+
+
+!!! WARNING !!!
+DUE CODE CHANGES DO NOT USE ON PHP OLDER THAN PHP 8
 
 ![browser1](https://user-images.githubusercontent.com/81091191/145600990-822b05ea-e6e8-453f-a055-cf941007ea17.PNG)
 ![browser2](https://user-images.githubusercontent.com/81091191/145600998-6e6a30cf-5490-44a7-af15-72d6a6c20161.PNG)
