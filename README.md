@@ -15,7 +15,7 @@ Simple file browser created using PHP 8
 4. To change/add file icons put them inside the icons folder located in the Components directory
 5. To add file extensions/images add them inside the returnFileExtensionAndImage($dir) inside the FileReader.php located in the Components directory
 6. To scan the current directory the index.php is currently located in replace $directoryToScan = 'src' with $directoryToScan = './'; 
-7. To scan a directory of your choosing replace $directoryToScan = 'src' with $directoryToScan = <Name of directory to scan>
+7. To scan a directory of your choosing replace $directoryToScan = 'src' with $directoryToScan = 'Name of directory to scan'
   
   
 !!! WARNING !!!
